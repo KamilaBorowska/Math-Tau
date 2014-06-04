@@ -1,7 +1,7 @@
 2π = τ.
 
 This module exports two constants, `tau` and `τ`. Both are equal to
-`2 * pi`. See <http://tauday.com/> for more information.
+2π. See <http://tauday.com/> for more information.
 
 # Example
 
